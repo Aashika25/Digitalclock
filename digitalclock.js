@@ -141,7 +141,7 @@ function demo() {
         var as1 = -(hour1 - mrng);
         if (as1 == 1) {
             var as1 = (60 - m) / 60;
-            as1 = as1 * 3540000
+            as1 = as1 * 3510000
             console.log(as1)
         }
         else {

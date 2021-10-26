@@ -141,11 +141,11 @@ function demo() {
         var as1 = -(hour1 - mrng);
         if (as1 == 1) {
             var as1 = (60 - m) / 60;
-            as1 = as1 * 3510000
+            as1 = as1 * 3540000
             console.log(as1)
         }
         else {
-            var as1 = as1 * 3510000
+            var as1 = as1 * 3540000
             console.log(as1)
         }
 
@@ -155,11 +155,11 @@ function demo() {
         var as1 = (24 - as1);
         if (as1 == 1) {
             var as1 = (60 - m) / 60;
-            as1 = as1 * 3510000
+            as1 = as1 * 3540000
             console.log(as1)
         }
         else {
-            var as1 = as1 * 3510000;
+            var as1 = as1 * 3540000;
             console.log(as1)
         }
 
@@ -182,11 +182,11 @@ function demo() {
         var as2 = (24 - as2);
         if (as2 == 1) {
             var as2 = (60 - m) / 60;
-            as2 = as2 * 3510000
+            as2 = as2 * 3540000
             console.log(as2)
         }
         else {
-            var as2 = as2 * 3510000;
+            var as2 = as2 * 3540000;
             console.log(as2)
         }
 
@@ -195,11 +195,11 @@ function demo() {
         var as3 = -(hour1 - night);
         if (as3 == 1) {
             var as3 = (60 - m) / 60;
-            as3 = as3 * 3510000
+            as3 = as3 * 3540000
             console.log(as3)
         }
         else {
-            var as3 = as3 * 3510000
+            var as3 = as3 * 3540000
             console.log(as3)
         }
 
@@ -209,11 +209,11 @@ function demo() {
         var as3 = (24 - as3);
         if (as3 == 1) {
             var as3 = (60 - m) / 60;
-            as3 = as3 * 3510000
+            as3 = as3 * 3540000
             console.log(as3)
         }
         else {
-            var as3 = as3 * 3510000;
+            var as3 = as3 * 3540000;
             console.log(as3)
         }
 
